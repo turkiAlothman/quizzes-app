@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "820250170291",
+    "project_id": "quizzes-fa5c8",
+    "storage_bucket": "quizzes-fa5c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820250170291:android:f59bfcda68507b5481f1c6",
+        "android_client_info": {
+          "package_name": "com.SWE444project.quizzes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820250170291-20oacga9cf1ci3ompjhc721te5qdkrd1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxpjedzDDbXren5D-8eGa88pMOhCummfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820250170291-20oacga9cf1ci3ompjhc721te5qdkrd1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
